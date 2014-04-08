@@ -10,6 +10,7 @@ AngularJS 1.2.3+ (it should also work with 1.2.0 and 1.2.1, but 1.2.2 does not w
 2. Download and include animate.css into your webpage
 3. Include animate.js into your webpage
 4. Set **ngAnimate-animate.css** as a dependency inside of your application module.
+5. include **pathto/inyourbowersetup/animate.js** in list of files in karma.conf.js and/or jenkins.karma.conf.js if you're using Jenkins.
 
 You can also use bower:
 
